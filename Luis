@@ -1,0 +1,30 @@
+ "Version": "",
+ "ReleaseNotes": "Prueba",
+ "Servers": [
+  {
+   "Name": "Luis",
+   "FLAG": ".png",
+   "ServerIP": "20.230.58.94",
+   "ServerPort": "22",
+   "SSLPort": "443",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "ServerUser": "",
+   "ServerPass": "",
+   "sInfo": "Prueba"
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "Prueba",
+   "Payload": "",
+   "SNI": "www.snapchat.com",
+   "chaveKey": "",
+   "serverNameKey": "",
+   "dnsKey": "",
+   "pInfo": "",
+   "Info": "",
+   "remoteHost": false,
+   "isSSL": true,
+   "isDirect": false,
+   "SlowDns": false
